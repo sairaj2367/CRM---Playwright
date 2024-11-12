@@ -1,0 +1,7 @@
+testcase,firstname,email_id,verify_email,birthdate,name_error,email_error,verify_email_error,checkbox_error,recaptcha_error,,,,,
+test_form_page,testname,testing3911@gmail.com,testing3911@gmail.com,31/12,,,,,,,,,,
+test_empty_form,,,,,Please enter your first name.,Please enter your email address.,Please enter your email address.,Please check this field.,The answer you entered for the CAPTCHA was not correct.,,,,,
+test_form_invalid_data,#NAME?,test,test,31/04,Please enter a valid name.,Please enter a valid email address.,Please enter a valid email address.,Please enter a valid date.,The answer you entered for the CAPTCHA was not correct.,,,,,
+test_empty_form_fr,,,,,Veuillez entrer votre prénom.,Veuillez entrer votre adresse de courriel.,Veuillez entrer votre adresse de courriel.,Veuillez remplir ce champ.,La réponse que vous avez entrée pour le CAPTCHA est incorrecte.,,,,,
+test_form_invalid_data_fr,#NAME?,test,test,31/04,Veuillez entrer un nom valide.,Veuillez entrer une adresse électronique valide.,Veuillez entrer une adresse électronique valide.,Veuillez utiliser une date valide.,La réponse que vous avez entrée pour le CAPTCHA est incorrecte.,,,,,
+test_form_recaptcha_generic,testname,testing3911@gmail.com,testing3911@gmail.com,31/12,,,,,"An error occurred, please try again later.",,,,,
